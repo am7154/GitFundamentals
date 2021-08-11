@@ -12,6 +12,8 @@ Here is a growing list of resources and helpful commands to know when working wi
 - [git config](./Commands/Remote.md)
 - [git config](./Commands/PUSH.md)
 - [git config](./Commands/PUll.md)
+- [git config](./Commands/Status.md)
+
 
 
 
