@@ -10,6 +10,10 @@ Here is a growing list of resources and helpful commands to know when working wi
 - [git config](./Commands/Add.md)
 - [git config](./Commands/Commit.md)
 - [git config](./Commands/Remote.md)
+- [git config](./Commands/PUSH.md)
+- [git config](./Commands/PUll.md)
+
+
 
 
 
